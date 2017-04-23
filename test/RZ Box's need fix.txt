@@ -6,7 +6,7 @@
 2025235 - Steampunk costume box [DONE]
 2025320 - Champions costume box[DONE]
 2025310 - Strategist costume box[DONE]
-3045000 - Winkers box [DONE]
+3045000 - Winkers box [DONE] test if it notices change
 2025134 - Bollack helm box 7 days [DONE]
 1330060 - Halloween Costume box [DONE]
 2025083 - Spider queens mask box 30 days [DONE]
