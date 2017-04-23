@@ -1,0 +1,79 @@
+<!-- Item/costume boxs that dont work -->
+<!--FINISHED -->
+1310005 - Demonic Costume Box [Done]
+2025170 - Veteran Assassin Costume Box [DONE]
+2025305 - Renasian Ritual Costume [DONE]
+2025235 - Steampunk costume box [DONE]
+2025320 - Champions costume box[DONE]
+2025310 - Strategist costume box[DONE]
+3045000 - Winkers box [DONE]
+2025134 - Bollack helm box 7 days [DONE]
+1330060 - Halloween Costume box [DONE]
+2025083 - Spider queens mask box 30 days [DONE]
+2025126 - viva helm box 364 days [DONE]
+2040004 - Rukers box [DONE]
+1340010 - White arrod box [DONE]
+1340064 - Candy broom box [DONE]
+64011031 - Redeemer costume 7 days [Done]
+2025084 - Spider Queen's mask box 365 days [DONE]
+2040005 - Candy broom box [Done]
+2025144 - Golden Knight helm box 7 days [DONE]
+2025146 - Golden knight helm box 365 [DONE]
+2025145 - Golden knight helm box 30 days [DONE]
+2025086 - Executioners helm box 30 days [DONE]
+2025085 - Executioners helm box 7 days [Done]
+2025087 - Executioners helm 365 days [DONE]
+2025076 - Warm wolfskin hat box 7 days [DONE]
+2025077 - Warm wolfskin hat box 30 days [DONE]
+2040062 - Mt eda polar bear box [DONE]
+2025135 - Bollack helm box 30 days [DONE]
+2025226 - Bunny hair band box 365 days [DONE]
+2025224 - Bunny hair band box 7 days [DONE]
+2025225 - Bunny hair band box 30 days [DONE]
+2025114 - Giant Horned beetle helm box 7 days [DONE]
+2025215 - Mingming prang frog hat box 30 days [DONE]
+2025214 - Mingming prang frog hat box 7 days [DONE]
+1340005 - Black arrod box [Done]
+64012220- Wing of heaven 14 days [DONE]
+2025246 - Burning skullmask box 365 days [DONE]
+2040006 - Red Arrod Box [DONE]
+2040081 - Yillis red waterball box [DONE] 
+1340044 - Hell horse box [DONE]
+2025082 - Spider queens mask 7 days[DONE]
+2025125 - viva helm box 30 days[DONE]
+2025080 - Crustacean claws box 30 days[DONE]
+2025082 - Spider queen mask box 7 days[DONE]
+2025125 - Viva helm box 30 days [DONE]
+
+<!-- boxes to be fixed later -->
+3022002 - Halloween costume box x 10 
+2049001 - Candy broom lucky box x 5
+2047001 - White arrod lucky box x 5
+3049001 - Candy broom lucky box x 5
+3049001 - Candy broom lucky box x 5
+1340042 - Hell horse lucky box x 5
+1340043 - Hell horse lucky box x 10
+2049000 - Candy broom lucky box 
+2025234 - Steampunk lucky box
+2040031 - Halloween Pumpkin box
+1310135 - Spooky box (use this to recieve beycium or temp hallowen costume)
+1800271 - Halloween toy box 
+2025296 - Butterfly wings lucky box
+1800229 - Halloween cake box
+2025361 - Horse Head lucky box
+2040050 - Swift Veamumu lucky box 
+2040032 - Halloween pumpkin lucky box
+2049003 - Sweet scallywag lucky box
+2025350 - Hair ribbon lucky box
+2040082 - Yillis Red Waterball lucky box
+3047012 - Winker's Lucky box x 10
+3047010 - Winkers lucky box
+1340041 - Hell horse lucky box
+2049002 - Candy broom lucky box x 10
+2047022 - Red Arrod Lucky box x 10+1
+2047023 - Classy red arrod lucky box
+
+
+
+
+
